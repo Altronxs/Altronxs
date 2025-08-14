@@ -3,13 +3,6 @@
     <img src="https://github.com/user-attachments/assets/07070cc0-60c6-4b0c-8df5-1f80e7537738" width="100%">
 </div>
 
-
-# 🌐 Kyle Alexander Baldovi — Personal Portfolio
-
-Welcome to my personal website! This is a dynamic, responsive portfolio built with **HTML**, **CSS**, and **JavaScript** to showcase my journey as a Full Stack Developer and Cybersecurity student at **Waipahu High School**. It reflects my passion for problem-solving, creative design, and technical innovation.
-
----
-
 ## 👨‍💻 About Me
 
 I'm **Kyle Alexander Baldovi**, a Cybersecurity student at Waipahu High School, born and raised in **Ewa Beach, Hawai‘i**. My journey into tech began not with a love for syntax, but with a fascination for solving problems and designing systems that actually work. I thrive at the intersection of **hardware and software**, where creativity meets logic and every challenge is an opportunity to build something better.
