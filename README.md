@@ -1,7 +1,7 @@
 <div align="center">
-    <h1>Hello There :wave:, I'm Kyle Alexander!!</h1>
-    <img src="https://github.com/user-attachments/assets/07070cc0-60c6-4b0c-8df5-1f80e7537738" width="100%">
+    <img src="https://github.com/user-attachments/assets/e3c108d2-ad31-4608-8358-4a1e0505482f" width="100%">
 </div>
+
 
 ## 👨‍💻 About Me
 
