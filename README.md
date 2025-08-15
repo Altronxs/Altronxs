@@ -9,14 +9,6 @@ I'm **Kyle Alexander Baldovi**, a Cybersecurity student at Waipahu High School, 
 
 ---
 
-## 🧠 What Drives Me
-
-- I’m not just a coder — I’m a **systems thinker**. I love breaking down complex problems into modular, solvable parts.  
-- I’m deeply curious about **CPU/GPU architecture**, **operating systems**, and **cybersecurity frameworks**, and I enjoy translating that knowledge into real-world applications.  
-- Whether it’s **benchmarking performance**, **troubleshooting React Native navigation**, or **designing academic capstones**, I approach each task with methodical precision and a hunger to improve.
-
----
-
 ## 🎨 Beyond the Code
 
 - I’m also a **visual storyteller**. I believe clarity in design reflects clarity in thought, and I bring that philosophy into every project I touch.  
@@ -31,18 +23,5 @@ I'm **Kyle Alexander Baldovi**, a Cybersecurity student at Waipahu High School, 
 - Hardware Integration using **Arduino**, **Raspberry Pi**, and **embedded systems**  
 - Performance Profiling and **architectural analysis** across OS and CPU/GPU layers  
 - Cybersecurity Foundations with hands-on experience in **Cisco**, **Ubuntu**, and **Docker** environments
-
----
-
-## 🎓 Vision for the Future
-
-I’m working toward a degree in **Computer Engineering**, aiming to blend my technical expertise with creative problem-solving to contribute to cutting-edge innovations. My goal is to study at institutions like:
-
-- **University of Hawai‘i at Mānoa**  
-- **Arizona State University**  
-- **Seattle University**  
-- **University of Washington Tacoma**
-
-These programs will help me deepen my understanding and push the boundaries of what’s possible in tech.
 
 ---
