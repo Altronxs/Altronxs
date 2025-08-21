@@ -21,7 +21,6 @@ I'm **Kyle Alexander Baldovi**, a Cybersecurity student at Waipahu High School, 
 - Full Stack Development with **HTML**, **CSS**, **JavaScript**, **Node.js**  
 - Academic Research & Writing with a focus on **comparative analysis** and **technical synthesis**  
 - Hardware Integration using **Arduino**, **Raspberry Pi**, and **embedded systems**  
-- Performance Profiling and **architectural analysis** across OS and CPU/GPU layers  
 - Cybersecurity Foundations with hands-on experience in **Cisco**, **Ubuntu**, and **Docker** environments
 
 ---
